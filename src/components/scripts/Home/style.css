@@ -1,0 +1,59 @@
+.recordbutton{
+    color:blue !important;
+    border-bottom: 7px solid blue !important;
+    
+}
+.Searchbar{
+    width: 270px;
+    border-radius: 9px;
+    height: 40px;
+}
+.tablehead{
+    background-color: rgb(102, 102, 252);
+   
+}
+
+.edit_button{
+    border-radius: 10px;
+    background-color: rgb(102, 102, 252) !important;
+    margin-right: 5px !important;
+   color: white !important;
+}
+.delete_button{
+    border-radius: 10px;
+    background-color:red !important;
+    color: white !important;
+}
+.text-color{
+    color: blue
+}
+
+.buttons{
+    display: block;
+    margin-top: 10%;
+    align-items: center;
+    margin-left: 40%;
+}
+.button_add{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:rgb(102, 102, 252) ;
+    color: white;
+    margin-right: 5px;
+    border: none;
+}
+.btn_cancel{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:red;
+    color: white;
+    border: none;
+    
+}
+.statebox{
+    width: 220px;
+    height: 60px;
+}
+
